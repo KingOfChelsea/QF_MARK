@@ -90,7 +90,23 @@
 
 ## 15.元素组件翻页是否更新
 
+---
 
+## 16.体温问题
+
+## 17.婴儿住院号问题
+
+![image-20250702180849534](https://gitee.com/HavertzPlatform/worker-picgo/raw/master/image-20250702180849534.png)
+
+## 18 RRT规则是否匹配
+
+## 19 疼痛的图
+
+![image-20250702181442331](https://gitee.com/HavertzPlatform/worker-picgo/raw/master/image-20250702181442331.png)
+
+## 20 审核人签名
+
+![image-20250702181751616](https://gitee.com/HavertzPlatform/worker-picgo/raw/master/image-20250702181751616.png)
 
 
 
