@@ -94,19 +94,47 @@
 
 ## 16.体温问题
 
+
+
 ## 17.婴儿住院号问题
 
 ![image-20250702180849534](https://gitee.com/HavertzPlatform/worker-picgo/raw/master/image-20250702180849534.png)
 
 ## 18 RRT规则是否匹配
 
+- [ ] rrt规则
+
 ## 19 疼痛的图
+
+- [ ] 目前使用操作，会打印出来，
 
 ![image-20250702181442331](https://gitee.com/HavertzPlatform/worker-picgo/raw/master/image-20250702181442331.png)
 
 ## 20 审核人签名
 
+- [ ] jira，
+
 ![image-20250702181751616](https://gitee.com/HavertzPlatform/worker-picgo/raw/master/image-20250702181751616.png)
 
+## 21.血糖
 
+## 22.血压待测单
+
+---
+
+## 23.事件时间
+
+---
+
+## 24.打印√选择措施
+
+之前那个dll文件那个不好使
+
+![image-20250704151624812](https://gitee.com/HavertzPlatform/worker-picgo/raw/master/image-20250704151624812.png)
+
+<video src="https://gitee.com/HavertzPlatform/worker-picgo/raw/master/2025-07-04 15-00-40.mp4"></video>
+
+<video src="https://gitee.com/HavertzPlatform/worker-picgo/raw/master/2025-07-04 14-52-37.mp4"></video>
+
+## 25.
 
